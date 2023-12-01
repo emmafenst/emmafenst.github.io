@@ -16,7 +16,7 @@ background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, F
 }
 header {
   font-family: 'Alegreya', serif;
-  color: #fff;
+  color: #863754;
   min-height: 50vh;
   display: flex;
 }
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffb3c1;
+  color: #863754;
   padding: 10px 0px 10px 10px;
 }
 
@@ -61,7 +61,7 @@ img {
 }
 
 .bio {
-color: #ffffff;
+color: #863754;
 font-size: 24px;
 font-family: 'Alegreya', serif;
 }
@@ -73,9 +73,9 @@ font-family: 'Alegreya', serif;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #863754;
   cursor: pointer;
-  color: #ffffff;
+  color: #863754;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -141,7 +141,7 @@ font-family: 'Alegreya', serif;
   padding: 20px;
 }
 a {
-  color: #fb6f92;
+  color: #863754;
 }
 .container {
   /* min-width: 500px; */
@@ -156,7 +156,7 @@ footer div {
   align-content: center;
   padding: 10px 20px;
   color: rgba(255, 255, 255, 0.8);
-  justify-content: space between;
+  justify-content: space-between;
 }
 .copyright {
   margin: auto 0;
